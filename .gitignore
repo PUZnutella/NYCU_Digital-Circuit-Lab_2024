@@ -1,0 +1,34 @@
+# Vivado build folders
+.cache/
+.hw/
+.runs/
+.sim/
+.ip_user_files/
+.Xil/
+
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.backup
+*.pb
+*.xml
+*.dcp
+*.rpt
+*.wdf
+*.wpc
+*.sh
+*.bat
+*.bit
+*.tcl
+*.vds
+*.vdi
+*.sdb
+*.wdb
+
+# Optional: If you're sure all vivado* files should be ignored
+vivado*
+
+# System files
+.DS_Store
+Thumbs.db
